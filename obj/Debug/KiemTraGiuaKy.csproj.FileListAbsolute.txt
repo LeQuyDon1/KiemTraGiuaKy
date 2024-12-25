@@ -1,0 +1,15 @@
+C:\Users\don\source\repos\KiemTraGiuaKy\bin\Debug\KiemTraGiuaKy.exe.config
+C:\Users\don\source\repos\KiemTraGiuaKy\bin\Debug\KiemTraGiuaKy.exe
+C:\Users\don\source\repos\KiemTraGiuaKy\bin\Debug\KiemTraGiuaKy.pdb
+C:\Users\don\source\repos\KiemTraGiuaKy\bin\Debug\EntityFramework.dll
+C:\Users\don\source\repos\KiemTraGiuaKy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\don\source\repos\KiemTraGiuaKy\bin\Debug\EntityFramework.xml
+C:\Users\don\source\repos\KiemTraGiuaKy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\don\source\repos\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.csproj.AssemblyReference.cache
+C:\Users\don\source\repos\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.frmSinhVien.resources
+C:\Users\don\source\repos\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.Properties.Resources.resources
+C:\Users\don\source\repos\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.csproj.GenerateResource.cache
+C:\Users\don\source\repos\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.csproj.CoreCompileInputs.cache
+C:\Users\don\source\repos\KiemTraGiuaKy\obj\Debug\KiemTraG.8BAA373B.Up2Date
+C:\Users\don\source\repos\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.exe
+C:\Users\don\source\repos\KiemTraGiuaKy\obj\Debug\KiemTraGiuaKy.pdb
